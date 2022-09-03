@@ -1,0 +1,59 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  width: 319px;
+
+  margin-top: 74px;
+}
+
+header h1{
+  font-family: 'Staatliches';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 60px;
+
+  color: #FFFFFF;
+}
+
+header p {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  
+  color: #FFFFFF;
+}
+
+body {
+  background: #E5E5E5;
+}
+
+body::before {
+  content: '';
+  z-index: -1;
+  position: absolute;
+  width: 100%;
+  height: 436px; 
+  background: #535971;
+}
+
+form{
+  min-height: 300px;
+  background: #E6E6F0;
+  border-radius: 8px;
+  padding: 64px;
+  display: flex;
+  flex-direction: column;
+}
+
+fieldset {
+  border: none;
+}
+
+.page {
+  width: 750px;
+  margin: auto;
+}
