@@ -172,3 +172,7 @@ footer input {
   line-height: 26px;
   color: #FFFFFF;
 }
+
+footer .button:hover {
+  background: #4e1a25;
+}
