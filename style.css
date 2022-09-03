@@ -125,6 +125,7 @@ fieldset legend {
   display: flex;
   flex-direction: column;
   height: 56px;
+  width: 622px;
   width: 140px;
   color: #4E4958;
 
