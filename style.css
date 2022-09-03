@@ -149,3 +149,26 @@ h3 {
   line-height: 34px;
   color: #535971;
 }
+
+footer {
+  background: #535971;
+  width: 750px;
+  height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+}
+
+footer input {
+  background: #FF5374;
+  border-radius: 20px;
+  height: 55.65px;
+  width: 608px;
+  border-style: none;
+  font-family: 'Staatliches';
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #FFFFFF;
+}
