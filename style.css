@@ -97,6 +97,7 @@ fieldset legend {
 
   border: 1px solid #E6E6F0;
   border-radius: 8px;
+  padding: 0 24px;
 }
 
 .input-wrapper input {
@@ -105,6 +106,7 @@ fieldset legend {
 
   border: 1px solid #E6E6F0;
   border-radius: 8px;
+  padding: 0 24px;
 }
 
 
