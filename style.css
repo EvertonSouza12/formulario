@@ -121,19 +121,6 @@ fieldset legend {
   width: 100%;
 }
 
-.input-time input {
-  display: flex;
-  flex-direction: column;
-  height: 56px;
-  width: 622px;
-  width: 140px;
-  color: #4E4958;
-
-  border: 1px solid #E6E6F0;
-  border-radius: 8px;
-  align-items: center;
-}
-
 .col-3 {
   display: flex;
   gap: 32px;
@@ -178,4 +165,8 @@ footer input {
 
 footer .button:hover {
   background: #4e1a25;
+}
+
+input:invalid{
+  border: solid 1px red;
 }
